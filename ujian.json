@@ -2,22 +2,22 @@
   "title": "Ujian SMKM8",
   "buttons": [
     {
-      "text": "Ujian Matematika",
+      "text": "Matematika",
       "url": "https://ujian.smkm8.my.id",
       "enabled": true
     },
     {
-      "text": "Ujian Bahasa Indonesia",
+      "text": "Bahasa Indonesia",
       "url": "https://google.com",
       "enabled": true
     },
     {
-      "text": "Ujian Bahasa Inggris",
+      "text": "Bahasa Inggris",
       "url": "https://tamanhosting.com",
       "enabled": true
     },
     {
-      "text": "Ujian IPA",
+      "text": "IPA",
       "url": "https://bing.com",
       "enabled": false
     }
