@@ -1,0 +1,25 @@
+{
+  "title": "Ujian SMKM8",
+  "buttons": [
+    {
+      "text": "Ujian Matematika",
+      "url": "https://ujian.smkm8.my.id",
+      "enabled": true
+    },
+    {
+      "text": "Ujian Bahasa Indonesia",
+      "url": "https://google.com",
+      "enabled": true
+    },
+    {
+      "text": "Ujian Bahasa Inggris",
+      "url": "https://tamanhosting.com",
+      "enabled": true
+    },
+    {
+      "text": "Ujian IPA",
+      "url": "https://bing.com",
+      "enabled": false
+    }
+  ]
+}
