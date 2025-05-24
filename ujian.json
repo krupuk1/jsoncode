@@ -19,7 +19,12 @@
     {
       "text": "IPA",
       "url": "https://bing.com",
-      "enabled": false
+      "enabled": true
+    },
+        {
+      "text": "IPS",
+      "url": "https://v0.dev",
+      "enabled": true
     }
   ]
 }
