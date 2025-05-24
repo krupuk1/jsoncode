@@ -21,9 +21,59 @@
       "url": "https://bing.com",
       "enabled": true
     },
-        {
+    {
       "text": "IPS",
       "url": "https://v0.dev",
+      "enabled": true
+    },
+    {
+      "text": "PPKN",
+      "url": "https://ujian.smkm8.my.id",
+      "enabled": true
+    },
+    {
+      "text": "Seni Budaya",
+      "url": "https://ujian.smkm8.my.id",
+      "enabled": true
+    },
+    {
+      "text": "PJOK",
+      "url": "https://ujian.smkm8.my.id",
+      "enabled": false
+    },
+    {
+      "text": "Prakarya",
+      "url": "https://ujian.smkm8.my.id",
+      "enabled": true
+    },
+    {
+      "text": "Sejarah",
+      "url": "https://ujian.smkm8.my.id",
+      "enabled": true
+    },
+    {
+      "text": "Ekonomi",
+      "url": "https://ujian.smkm8.my.id",
+      "enabled": true
+    },
+    {
+      "text": "Sosiologi",
+      "url": "https://ujian.smkm8.my.id",
+      "enabled": true
+    },
+    {
+      "text": "Geografi",
+      "url": "https://example.com/geografi",
+      "enabled": true
+    },
+    {
+      "text": "Kimia",
+      "url": "https://example.com/kimia",
+      "enabled": true
+    },
+    {
+      "text": "Fisika",
+      "url": "https://example.com/fisika",
       "enabled": true
     }
   ]
